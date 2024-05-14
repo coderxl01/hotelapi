@@ -1,0 +1,17 @@
+C:\Users\Kadir Şensoy\source\repos\HotelApi\HotelApi.DataAccess\bin\Debug\net8.0\HotelApi.DataAccess.deps.json
+C:\Users\Kadir Şensoy\source\repos\HotelApi\HotelApi.DataAccess\bin\Debug\net8.0\HotelApi.DataAccess.runtimeconfig.json
+C:\Users\Kadir Şensoy\source\repos\HotelApi\HotelApi.DataAccess\bin\Debug\net8.0\HotelApi.DataAccess.dll
+C:\Users\Kadir Şensoy\source\repos\HotelApi\HotelApi.DataAccess\bin\Debug\net8.0\HotelApi.DataAccess.pdb
+C:\Users\Kadir Şensoy\source\repos\HotelApi\HotelApi.DataAccess\bin\Debug\net8.0\HotelApi.Entities.dll
+C:\Users\Kadir Şensoy\source\repos\HotelApi\HotelApi.DataAccess\bin\Debug\net8.0\HotelApi.Entities.pdb
+C:\Users\Kadir Şensoy\source\repos\HotelApi\HotelApi.DataAccess\obj\Debug\net8.0\HotelApi.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Kadir Şensoy\source\repos\HotelApi\HotelApi.DataAccess\obj\Debug\net8.0\HotelApi.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kadir Şensoy\source\repos\HotelApi\HotelApi.DataAccess\obj\Debug\net8.0\HotelApi.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Kadir Şensoy\source\repos\HotelApi\HotelApi.DataAccess\obj\Debug\net8.0\HotelApi.DataAccess.AssemblyInfo.cs
+C:\Users\Kadir Şensoy\source\repos\HotelApi\HotelApi.DataAccess\obj\Debug\net8.0\HotelApi.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Kadir Şensoy\source\repos\HotelApi\HotelApi.DataAccess\obj\Debug\net8.0\HotelApi.4BBEAA00.Up2Date
+C:\Users\Kadir Şensoy\source\repos\HotelApi\HotelApi.DataAccess\obj\Debug\net8.0\HotelApi.DataAccess.dll
+C:\Users\Kadir Şensoy\source\repos\HotelApi\HotelApi.DataAccess\obj\Debug\net8.0\refint\HotelApi.DataAccess.dll
+C:\Users\Kadir Şensoy\source\repos\HotelApi\HotelApi.DataAccess\obj\Debug\net8.0\HotelApi.DataAccess.pdb
+C:\Users\Kadir Şensoy\source\repos\HotelApi\HotelApi.DataAccess\obj\Debug\net8.0\HotelApi.DataAccess.genruntimeconfig.cache
+C:\Users\Kadir Şensoy\source\repos\HotelApi\HotelApi.DataAccess\obj\Debug\net8.0\ref\HotelApi.DataAccess.dll

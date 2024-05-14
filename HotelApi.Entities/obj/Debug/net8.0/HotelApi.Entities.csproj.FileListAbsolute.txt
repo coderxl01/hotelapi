@@ -1,0 +1,13 @@
+C:\Users\Kadir Şensoy\source\repos\HotelApi\HotelApi.Entities\bin\Debug\net8.0\HotelApi.Entities.deps.json
+C:\Users\Kadir Şensoy\source\repos\HotelApi\HotelApi.Entities\bin\Debug\net8.0\HotelApi.Entities.dll
+C:\Users\Kadir Şensoy\source\repos\HotelApi\HotelApi.Entities\bin\Debug\net8.0\HotelApi.Entities.pdb
+C:\Users\Kadir Şensoy\source\repos\HotelApi\HotelApi.Entities\obj\Debug\net8.0\HotelApi.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kadir Şensoy\source\repos\HotelApi\HotelApi.Entities\obj\Debug\net8.0\HotelApi.Entities.AssemblyInfoInputs.cache
+C:\Users\Kadir Şensoy\source\repos\HotelApi\HotelApi.Entities\obj\Debug\net8.0\HotelApi.Entities.AssemblyInfo.cs
+C:\Users\Kadir Şensoy\source\repos\HotelApi\HotelApi.Entities\obj\Debug\net8.0\HotelApi.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Kadir Şensoy\source\repos\HotelApi\HotelApi.Entities\obj\Debug\net8.0\HotelApi.Entities.dll
+C:\Users\Kadir Şensoy\source\repos\HotelApi\HotelApi.Entities\obj\Debug\net8.0\refint\HotelApi.Entities.dll
+C:\Users\Kadir Şensoy\source\repos\HotelApi\HotelApi.Entities\obj\Debug\net8.0\HotelApi.Entities.pdb
+C:\Users\Kadir Şensoy\source\repos\HotelApi\HotelApi.Entities\obj\Debug\net8.0\ref\HotelApi.Entities.dll
+C:\Users\Kadir Şensoy\source\repos\HotelApi\HotelApi.Entities\bin\Debug\net8.0\HotelApi.Entities.runtimeconfig.json
+C:\Users\Kadir Şensoy\source\repos\HotelApi\HotelApi.Entities\obj\Debug\net8.0\HotelApi.Entities.genruntimeconfig.cache
